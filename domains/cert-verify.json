@@ -1,11 +1,11 @@
 {
-  "description": "PSA Kalinga Certificate Verifier",
+  "description": "PSA HireTrack certificate verifier",
   "repo": "https://github.com/Syano18/PSA-HireTrack",
   "owner": {
     "username": "Syano18",
-    "email": "your@email.com"
+    "email": "officialchano18@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "cname.vercel-dns.com."
   }
 }
